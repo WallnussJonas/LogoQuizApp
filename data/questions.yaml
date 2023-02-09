@@ -1,0 +1,91 @@
+questions:
+  0:
+    image: McDonalds.png
+    answers:
+      - McDonald's
+      - Medien AG
+      - M&Ms
+      - Monster
+    right_answer: McDonald's
+
+  1:
+    image: pepsi.jpg
+    answers:
+      - Lidl
+      - Peugot
+      - Pepsi
+      - Dr Pepper
+    right_answer: Pepsi
+
+  2:
+    image: wikipedia.jpg
+    answers:
+      - Bibliothek
+      - Wikipedia
+      - Google Translate
+      - Sprachkurs
+    right_answer: Wikipedia
+
+  3:
+    image: Lufthansa.png
+    answers:
+      - Lufthansa
+      - Ibykus
+      - Hollister
+      - Mövenpick
+    right_answer: Lufthansa
+
+  4:
+    image: Toblerone.png
+    answers:
+      - Schneekoppe
+      - Zugspitze
+      - Toblerone
+      - Evian
+    right_answer: Toblerone
+
+  5:
+    image: Jagermeister.jpg
+    answers:
+      - John Deere
+      - Black Deere
+      - Rudolph
+      - Jägermeister
+    right_answer: Jägermeister
+
+  6:
+    image: Honda.png
+    answers:
+      - Hyundai
+      - Honda
+      - Hasbro
+      - Hermes
+    right_answer: Honda
+
+  7:
+    image: Linux.jpg
+    answers:
+      - Krefeld Pinguine
+      - PinGo
+      - Iglo
+      - Linux
+    right_answer: Linux
+
+  8:
+    image: Meta.png
+    answers:
+      - Oculus
+      - Meta
+      - Deutsche Bank
+      - EU Parlament
+    right_answer: Meta
+
+  9:
+    image: Reddit.png
+    answers:
+      - Reddit
+      - Botnet
+      - KUKA
+      - Intel
+    right_answer: Reddit
+
