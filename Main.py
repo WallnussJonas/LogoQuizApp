@@ -13,7 +13,7 @@ with open("data/questions.yaml", 'rt', encoding='utf8') as yml:
 
 question_counter = 0
 score = 0
-filename = "Scoreboard"
+filename = "scoreboard"
 file = filename +".yaml"
 
 if os.path.exists("data/scoreboard.yaml"):
